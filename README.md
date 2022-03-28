@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**overlord1347/overlord1347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hey there! I'm Ilya.</h2>
 
-Here are some ideas to get you started:
+<a href="https://github.com/overlord1347">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=overlord1347&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overlord1347&theme=buefy&layout=compact" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p>
+<a href="mailto:supa0952@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-supa0952@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
