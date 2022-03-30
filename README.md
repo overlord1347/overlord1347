@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2> Hey there! I'm Ilya.</h2>
 
 <a href="https://github.com/overlord1347">
